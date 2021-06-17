@@ -1,0 +1,16 @@
+
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¾×Ïê
+G
+java:S1611)"1Remove the parentheses around the "str" parameter(„…›Ø
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(è“Ã&
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Íˆ¶‚ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ı·Êôıÿÿÿÿ
+L
+java:S1611#"1Remove the parentheses around the "str" parameter(õÉõ±ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ
+G
+java:S1611&"1Remove the parentheses around the "str" parameter(ä†ß¬
+N
+java:S1612#",Replace this lambda with a method reference.(õÉõ±ùÿÿÿÿ8¨¹õ†/
+I
+java:S1612&",Replace this lambda with a method reference.(ä†ß¬8¨¹õ†/

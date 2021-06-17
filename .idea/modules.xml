@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java8/source/java8-day01/java8-day01.iml" filepath="$PROJECT_DIR$/java8/source/java8-day01/java8-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/source/java8-day02/java8-day02.iml" filepath="$PROJECT_DIR$/java8/source/java8-day02/java8-day02.iml" />
+    </modules>
+  </component>
+</project>

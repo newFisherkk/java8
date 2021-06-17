@@ -1,0 +1,37 @@
+
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ˆõª¤Ü.
+R
+java:S1611"/Remove the parentheses around the "e" parameter(Ú›Óğıÿÿÿÿ8ˆõª¤Ü.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(ÆÀ³À8ˆõª¤Ü.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(³ÀÊ‰øÿÿÿÿ8ˆõª¤Ü.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ˆõª¤Ü.
+Y
+java:S1854"7Remove this useless assignment to local variable "ts2".(È›øïşÿÿÿÿ8ˆõª¤Ü.
+J
+java:S1604"(Make this anonymous inner class a lambda(È›øïşÿÿÿÿ8ˆõª¤Ü.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(½õŸ÷øÿÿÿÿ8ˆõª¤Ü.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ˆõª¤Ü.
+D
+java:S1481"'Remove this unused "ts" local variable.(à±ƒÛ8ˆõª¤Ü.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ˆõª¤Ü.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8ˆõª¤Ü.
+M
+java:S1611†"/Remove the parentheses around the "e" parameter(Öş¡®8ˆõª¤Ü.
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ÆÀ³À8ˆõª¤Ü.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(Íğ·q8ˆõª¤Ü.
+M
+java:S1611"/Remove the parentheses around the "e" parameter(·ïôÜ8ˆõª¤Ü.
+S
+java:S1854""6Remove this useless assignment to local variable "ts".(à±ƒÛ8ˆõª¤Ü.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ˆõª¤Ü.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ˆõª¤Ü.
+J
+java:S1481"(Remove this unused "ts2" local variable.(È›øïşÿÿÿÿ8ˆõª¤Ü.
+D
+java:S1481""'Remove this unused "ts" local variable.(à±ƒÛ8ˆõª¤Ü.
+J
+java:S1604"(Make this anonymous inner class a lambda(ËúÁ±üÿÿÿÿ8æ§Ã¤Ü.
+S
+java:S1854"6Remove this useless assignment to local variable "ts".(à±ƒÛ8ˆõª¤Ü.
+J
+java:S1604r"(Make this anonymous inner class a lambda(ÆŠÅşÿÿÿÿ8‹è¹õ†/

@@ -1,0 +1,12 @@
+
+O
+java:S4719 "9Replace charset name argument with StandardCharsets.UTF_8(ôç¦
+]	java:S125J"<This block of commented-out lines of code should be removed.(©°–ùÿÿÿÿ8ø€ïÛç.
+D
+java:S1172".Remove this unused method parameter "imgType".(Û…³ï
+X	java:S125B"<This block of commented-out lines of code should be removed.(òèÏå8ø€ïÛç.
+X	java:S125D"<This block of commented-out lines of code should be removed.(Åù´‡8ø€ïÛç.
+W	java:S125G"<This block of commented-out lines of code should be removed.(ï†‹u8ø€ïÛç.
+]	java:S125M"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ø€ïÛç.
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Û…³ï
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãŸÑã

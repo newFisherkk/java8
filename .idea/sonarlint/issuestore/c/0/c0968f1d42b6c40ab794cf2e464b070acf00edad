@@ -1,0 +1,35 @@
+
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(¾Ûôˆ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(î¼ùš
+J
+java:S1611H"/Remove the parentheses around the "e" parameter(µğøÄüÿÿÿÿ
+F
+java:S1481"+Remove this unused "stream" local variable.(ÆÖÛôúÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(‚Ö…«
+N
+java:S1481"3Remove this unused "parallelStream" local variable.(¼óÃƒúÿÿÿÿ
+E
+java:S1611h"/Remove the parentheses around the "e" parameter(Ùè´
+J
+java:S1611'"/Remove the parentheses around the "x" parameter(šĞªıúÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(‰ØçÒ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(É„†ú
+Q
+java:S1854 ";Remove this useless assignment to local variable "stream1".(–’¯±
+]
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(¼óÃƒúÿÿÿÿ
+J
+java:S1611^"/Remove the parentheses around the "e" parameter(µğøÄüÿÿÿÿ
+M	java:S106("9Replace this use of System.out or System.err by a logger.(ã‡Î3
+U
+java:S1854":Remove this useless assignment to local variable "stream".(ÆÖÛôúÿÿÿÿ
+A
+java:S1481#",Remove this unused "stream2" local variable.(ÂƒÚ\
+B
+java:S1481 ",Remove this unused "stream1" local variable.(–’¯±
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(¾Ûôˆ
+P
+java:S1854#";Remove this useless assignment to local variable "stream2".(ÂƒÚ\
